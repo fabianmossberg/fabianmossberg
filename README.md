@@ -1,4 +1,8 @@
-<img src="rick.gif">
+![](https://hit.yhype.me/github/profile?user_id=1999142)
+
+# Hello 👋
+
+I like smart things.
 
 <!--
 **fabianmossberg/fabianmossberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
