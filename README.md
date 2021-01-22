@@ -2,7 +2,9 @@
 
 # Hello 👋
 
-I like smart things.
+![](https://komarev.com/ghpvc/?username=fabianmossberg&style=flat-square)
+
+
 
 <!--
 **fabianmossberg/fabianmossberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
