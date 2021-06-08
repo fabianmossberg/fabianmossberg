@@ -42,4 +42,7 @@
   
 </details>
 
+<img src="dino.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabianmossberg&label=Profile%20views&color=cd26d9&style=flat-square" alt="fabianmossberg" /> </p>
+
