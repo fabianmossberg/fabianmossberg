@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Fabian</h1>
 <h3 align="center">I like smart things.</h3>
 
+
+
 <p>I've been coding since i was a kid. Built my first website before CSS existed. In my spare time I am playing with old macintosh computers.</p>
 
 ## What I love
@@ -41,6 +43,12 @@
 - How to get your printer working
   
 </details>
+
+<h1 align="center"
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fabianmossberg)](https://git.io/streak-stats)
+  
+</h1>
 
 <img src="dino.gif" />
 
