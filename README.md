@@ -9,16 +9,15 @@
 
 ## What I love
 
-|What|Why?|
-|-|-|
-|[Svelte](https://github.com/sveltejs/svelte)|Beautiful, efficient, easy to learn. A whole new take on how we build things. The video that got me hooked was [rethinking reactivity](https://youtu.be/AdNJ3fydeao) by [@Rich-Harris](https://github.com/Rich-Harris)|
-|[Svelte Kit](https://github.com/sveltejs/kit)|*The* application framework for **Svelte**|
-|[PostgreSQL](https://github.com/postgres/postgres)|I was wrong when I thought it's just an alternative to MySQL.|
-|Marley|He's my dog 🐩|
-|[Supabase](https://github.com/supabase/supabase)|Open source project that gives you a Postgres Database, Authentication, instant APIs, realtime subscriptions and Storage 🤯|
-|[TypeScript](https://github.com/microsoft/TypeScript)|I jumped on this train not too long ago. A great way to improve the quality of my code!|
-|[VS Code](https://github.com/microsoft/vscode)|Like [vim](https://github.com/vim/vim), but made by Microsoft.|
-
+| What                                                  | Why?                                                                                                                                                                                                                   |
+| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Svelte](https://github.com/sveltejs/svelte)          | Beautiful, efficient, easy to learn. A whole new take on how we build things. The video that got me hooked was [rethinking reactivity](https://youtu.be/AdNJ3fydeao) by [@Rich-Harris](https://github.com/Rich-Harris) |
+| [Svelte Kit](https://github.com/sveltejs/kit)         | *The* application framework for **Svelte**                                                                                                                                                                             |
+| [PostgreSQL](https://github.com/postgres/postgres)    | I was wrong when I thought it's just an alternative to MySQL.                                                                                                                                                          |
+| Marley                                                | He's my dog 🐩                                                                                                                                                                                                          |
+| [Supabase](https://github.com/supabase/supabase)      | Open source project that gives you a Postgres Database, Authentication, instant APIs, realtime subscriptions and Storage 🤯                                                                                             |
+| [TypeScript](https://github.com/microsoft/TypeScript) | I jumped on this train not too long ago. A great way to improve the quality of my code!                                                                                                                                |
+| [VS Code](https://github.com/microsoft/vscode)        | Like [vim](https://github.com/vim/vim), but made by Microsoft.                                                                                                                                                         |
 
 <details>
   <summary>I'm good at</summary>
