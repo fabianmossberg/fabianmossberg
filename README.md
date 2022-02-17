@@ -5,10 +5,13 @@
 
 <p>I've been coding since i was a kid. Built my first website before CSS existed. In my spare time I am playing with old macintosh computers.</p>
 
+<p>I love exploring how technology can enhance our lives, both at an individual level, and as a society. There is a lot happening in the blockchain space. I am a firm believer that Web3 is bringing a huge change to the world.</p>
+
 ## What I love
 
 | What                                                  | Why?                                                                                                                                                                                                                   |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Web3 | A technological evolutions that changes how evrything works. I will elaborate on this later. |
 | [Svelte](https://github.com/sveltejs/svelte)          | Beautiful, efficient, easy to learn. A whole new take on how we build things. The video that got me hooked was [rethinking reactivity](https://youtu.be/AdNJ3fydeao) by [@Rich-Harris](https://github.com/Rich-Harris) |
 | [Svelte Kit](https://github.com/sveltejs/kit)         | *The* application framework for **Svelte**                                                                                                                                                                             |
 | [PostgreSQL](https://github.com/postgres/postgres)    | I was wrong when I thought it's just an alternative to MySQL.                                                                                                                                                          |
