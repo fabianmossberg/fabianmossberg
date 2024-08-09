@@ -15,18 +15,12 @@ There is <em>one thing</em> that has really brought back the joy of coding to me
 
 - [x] 🟢 [SvelteKit](https://github.com/sveltejs/kit)
 - [x] 🟢 PostgreSQL
-- [ ] 🟡 [TypeScript](https://www.typescriptlang.org/)
-- [ ] 🔴 [Turborepo](https://turborepo.org/)
+- [x] 🟢 [TypeScript](https://www.typescriptlang.org/)
 - [ ] 🔴 [Vitest](https://vitest.dev/)
 - [ ] 🔴 [Playwright](https://playwright.dev/)
-- [ ] 🟠 [Svelte Packaging](https://kit.svelte.dev/docs/packaging)
-- [ ] 🟠 [GIS](https://en.wikipedia.org/wiki/Geographic_information_system)
-- [ ] 🔴 [Historie](https://histoire.dev/)
 
 <details>
   <summary><sub> 🔴 🟠 🟡 🟢❓ </sub></summary>
-  
-  
 <sub>
 
 ||Meaning|
@@ -39,7 +33,7 @@ There is <em>one thing</em> that has really brought back the joy of coding to me
 </sub>
 </details>
 
-## What I love
+## Stuff I love
 
 | What                                                  | Why?                                                                                                                                                                                                                   |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -50,7 +44,6 @@ There is <em>one thing</em> that has really brought back the joy of coding to me
 | [Supabase](https://github.com/supabase/supabase)      | Open source project that gives you a Postgres Database, Authentication, instant APIs, realtime subscriptions and Storage 🤯                                                                                             |
 | [TypeScript](https://github.com/microsoft/TypeScript) | I jumped on this train not too long ago. A great way to improve the quality of my code!                                                                                                                                |
 | [VS Code](https://github.com/microsoft/vscode)        | Like [vim](https://github.com/vim/vim), but made by Microsoft.                                                                                                                                                        |
-| Web3 | A technological evolutions that changes how things can work. Hoping to se an acutal usefull implementation of the technology in the future. |
 
 
 <details>
