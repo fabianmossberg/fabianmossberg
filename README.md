@@ -15,9 +15,10 @@ There is <em>one thing</em> that has really brought back the joy of coding to me
 
 - [x] 🟢 [SvelteKit](https://github.com/sveltejs/kit)
 - [x] 🟢 PostgreSQL
+- [x] 🟢 [Cloudflare](https://www.cloudflare.com/)
 - [x] 🟢 [TypeScript](https://www.typescriptlang.org/)
-- [ ] 🔴 [Vitest](https://vitest.dev/)
-- [ ] 🔴 [Playwright](https://playwright.dev/)
+- [ ] 🟡 [Vitest](https://vitest.dev/)
+- [ ] 🟡 [Playwright](https://playwright.dev/)
 
 <details>
   <summary><sub> 🔴 🟠 🟡 🟢❓ </sub></summary>
