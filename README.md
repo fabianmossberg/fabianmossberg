@@ -11,40 +11,16 @@ I like building tools that improves life and automates manual tasks. I usually s
 
 There is <em>one thing</em> that has really brought back the joy of coding to me in the last years, and it's <strong>[Svelte](https://svelte.dev/)</strong>. If you haven't looked at it, you should go do the [tutorial](https://svelte.dev/tutorial/basics), and have your mind blown.
 
-## Things I want to master
+## Preferred stack
 
-- [x] 🟢 [SvelteKit](https://github.com/sveltejs/kit)
-- [x] 🟢 PostgreSQL
-- [x] 🟢 [Cloudflare](https://www.cloudflare.com/)
-- [x] 🟢 [TypeScript](https://www.typescriptlang.org/)
-- [ ] 🟡 [Vitest](https://vitest.dev/)
-- [ ] 🟡 [Playwright](https://playwright.dev/)
-
-<details>
-  <summary><sub> 🔴 🟠 🟡 🟢❓ </sub></summary>
-<sub>
-
-||Meaning|
-|-|-|
-|🔴|Have hardly started|
-|🟠|Reading docs, trying it|
-|🟡|Using it|
-|🟢|I got this. Using it in production|
-
-</sub>
-</details>
+- [x] [TypeScript](https://www.typescriptlang.org/)
+- [x] [SvelteKit](https://github.com/sveltejs/kit)
+- [x] [Tailwind CSS](https://tailwindcss.com/)
+- [x] [PostgreSQL](https://www.postgresql.org/)
+- [x] [Cloudflare](https://www.cloudflare.com/)
+- [x] [Docker](https://www.docker.com/)
 
 ## Stuff I love
-
-| What                                                  | Why?                                                                                                                                                                                                                   |
-| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [SvelteKit](https://github.com/sveltejs/kit)         | *The* application framework for **Svelte**                                                                                                                                                                             |
-| [Svelte](https://github.com/sveltejs/svelte)          | Beautiful, efficient, easy to learn. A whole new take on how we build things. The video that got me hooked was [rethinking reactivity](https://youtu.be/AdNJ3fydeao) by [@Rich-Harris](https://github.com/Rich-Harris) |
-| [PostgreSQL](https://github.com/postgres/postgres)    | I was wrong when I thought it's just an alternative to MySQL.                                                                                                                                                          |
-| Marley                                                | He's my dog 🐩                                                                                                                                                                                                          |
-| [Supabase](https://github.com/supabase/supabase)      | Open source project that gives you a Postgres Database, Authentication, instant APIs, realtime subscriptions and Storage 🤯                                                                                             |
-| [TypeScript](https://github.com/microsoft/TypeScript) | I jumped on this train not too long ago. A great way to improve the quality of my code!                                                                                                                                |
-| [VS Code](https://github.com/microsoft/vscode)        | Like [vim](https://github.com/vim/vim), but made by Microsoft.                                                                                                                                                        |
 
 
 <details>
@@ -69,7 +45,6 @@ There is <em>one thing</em> that has really brought back the joy of coding to me
 - WordPress
 - PHP
 - Classic ASP
-- How to get your printer working
   
 </details>
 
