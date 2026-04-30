@@ -9,7 +9,7 @@ I love exploring how technology can enhance our lives, both at an individual lev
 
 I like building tools that improves life and automates manual tasks. I usually spend <em>more time</em> on building automations for tasks, than I will actually save from automating them.
 
-There is <em>one thing</em> that has really brought back the joy of coding to me in the last years, and it's <strong>[Svelte](https://svelte.dev/)</strong>. If you haven't looked at it, you should go do the [tutorial](https://svelte.dev/tutorial/basics), and have your mind blown.
+There is <em>one thing</em> that has really brought back the joy of coding to me in the last years, and it's <strong>[Svelte](https://svelte.dev/)</strong>. If you haven't looked at it, you should go do the [tutorial](https://svelte.dev/tutorial/svelte/welcome-to-svelte), and have your mind blown.
 
 ## Preferred stack
 
